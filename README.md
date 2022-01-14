@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Swarnendu Basak
-- 👀 I’m interested in Full Stack Developement
+- 👀 I’m interested in Full Stack and Mobile Application Developement
 - 🌱 I’m currently learning iOS Development with Swift and Objective-C, React and React-Native development alongside Node.js, Express.js
 - 💞️ I’m looking to collaborate on Mobile Application Development projects using React-Native
 - 📫 How to reach me https://www.linkedin.com/in/swarnendu-basak-8a2115146/
