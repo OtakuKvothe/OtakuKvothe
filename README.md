@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Swarnendu Basak
-- 👀 I’m interested in Full Stack and Mobile Application Developement
-- 🌱 I’m currently learning React and React-Native development alongside Node.js, Express.js
-- 💞️ I’m looking to collaborate on Mobile Application Development projects using React-Native
+- 👀 I’m interested in Full Stack and Backend Application Developement
+- 🌱 My primary skillset is Java/Kotlin development. I’m currently learning GO and Python
+- 💞️ I’m looking to collaborate on interesting projects, and also open to new tech stacks
 - 📫 How to reach me https://www.linkedin.com/in/swarnendu-basak-8a2115146/
 
 <!---
